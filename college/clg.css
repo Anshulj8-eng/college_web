@@ -1,0 +1,126 @@
+body{
+    background-image: url(sidhu.3.JPG);
+     background-size: cover;
+        margin:0;
+        padding:0;
+}
+#myclg{
+    height: 30px;
+}
+#header{
+    background-image: url(11.jpg);
+    font-size: 40px;
+    color: #13161b;
+    background-color: rgb(97, 131, 145);
+    height: 100px;
+    width: 100%;
+    text-align: left;
+}
+
+.main{
+    background-color: rgb(205, 205, 200);
+    height: 55px;
+    font-size: 30px;
+    width: 61%;
+}
+.main2{
+    background-color: rgb(205, 205, 200);
+    height: 55px;
+    font-size: 25px;
+    width: 61%;
+}
+#m1{
+    height: 150px;
+    width: 150px;
+}
+#p1{
+    
+    width: 140px;
+    height: 135px;
+}
+   .myscroll{
+    font-size: 18px;
+    height: 30px;
+    background-color: black;
+    color: rgb(172, 125, 25);
+   }
+   .scroll-images{
+    display:flex;
+    background-color: #333;
+    height: 800px;
+    white-space:wrap;
+    padding: 10px;
+    overflow:aut0;
+   }
+   .scroll-images img{
+    padding: 10px;
+   }
+   #actionbar{
+    background-color: gray;
+    color:white;
+    width: 100%;
+    text-align: center;
+   }
+ 
+
+   #ip{
+    width: 400px;
+    height: 30px;
+   }
+   .btns{
+    padding:5px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    justify-content: left;
+    flex-wrap: wrap;
+   }
+   #mybuttons1,#mybuttons2,#mybuttons3,#mybuttons4,#mybuttons5,#mybuttons6,#mybuttons7{
+    background-color: #060688;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 5px 8px 5px 8px;
+    margin: 5px;
+    text-align: center;
+    font-size: 22px;
+   }
+   .search{
+    height: 30px;
+    width: 80px;
+    background-color: green;
+    color: white;
+   }
+   .search:hover{
+    color: black;
+    background-color: red;
+   }
+   .mybuttons1:hover,.mybuttons2:hover,.mybuttons3:hover,.mybuttons4:hover,.mybuttons5:hover,.mybuttons6:hover,.mybuttons7:hover{
+    color: black;
+    background-color: red;
+   }
+   #content
+   {
+    background-color: lightgoldenrodyellow;
+    height:200px;
+    width:100%;
+   }
+   #contentm
+   {
+    background-color: lightgoldenrodyellow;
+    height:240px;
+    width:100%;
+   }
+   #footer{
+    background-color: black;
+    height:5px;
+    width:100%;
+   }
+   #Info{
+    font-size: 20px;
+   }
+   #Infom{
+    font-size: 18px;
+   }
+
+
